@@ -11,3 +11,4 @@ In this example, we will attach a script trigger to global field that will fire 
 
 View the script in the open example file to discover how to build a dynamic list of all text fields in a table, and then dynamically build an AND query to return a list of primary keys (IDs) to use in a standard FileMaker portal to display results. Sample data included for demonstration purposes.
 
+Read more here: <a href="https://www.soliantconsulting.com/blog/filemaker-search-executesql">https://www.soliantconsulting.com/blog/filemaker-search-executesql</a>
